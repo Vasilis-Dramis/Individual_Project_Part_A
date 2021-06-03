@@ -1,0 +1,14 @@
+C:\Users\georg\Desktop\CODING BOOTCAMP\INDIVIDUAL PROJECT\Individual Project\Individual Project\bin\Debug\Individual Project.exe.config
+C:\Users\georg\Desktop\CODING BOOTCAMP\INDIVIDUAL PROJECT\Individual Project\Individual Project\bin\Debug\Individual Project.exe
+C:\Users\georg\Desktop\CODING BOOTCAMP\INDIVIDUAL PROJECT\Individual Project\Individual Project\bin\Debug\Individual Project.pdb
+C:\Users\georg\Desktop\CODING BOOTCAMP\INDIVIDUAL PROJECT\Individual Project\Individual Project\obj\Debug\Individual Project.csprojAssemblyReference.cache
+C:\Users\georg\Desktop\CODING BOOTCAMP\INDIVIDUAL PROJECT\Individual Project\Individual Project\obj\Debug\Individual Project.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\CODING BOOTCAMP\INDIVIDUAL PROJECT\Individual Project\Individual Project\obj\Debug\Individual Project.exe
+C:\Users\georg\Desktop\CODING BOOTCAMP\INDIVIDUAL PROJECT\Individual Project\Individual Project\obj\Debug\Individual Project.pdb
+C:\Users\georg\Desktop\CODING BOOTCAMP\INDIVIDUAL PROJECT\PART A\Individual Project\Individual Project\bin\Debug\Individual Project.exe.config
+C:\Users\georg\Desktop\CODING BOOTCAMP\INDIVIDUAL PROJECT\PART A\Individual Project\Individual Project\bin\Debug\Individual Project.exe
+C:\Users\georg\Desktop\CODING BOOTCAMP\INDIVIDUAL PROJECT\PART A\Individual Project\Individual Project\bin\Debug\Individual Project.pdb
+C:\Users\georg\Desktop\CODING BOOTCAMP\INDIVIDUAL PROJECT\PART A\Individual Project\Individual Project\obj\Debug\Individual Project.csprojAssemblyReference.cache
+C:\Users\georg\Desktop\CODING BOOTCAMP\INDIVIDUAL PROJECT\PART A\Individual Project\Individual Project\obj\Debug\Individual Project.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\CODING BOOTCAMP\INDIVIDUAL PROJECT\PART A\Individual Project\Individual Project\obj\Debug\Individual Project.exe
+C:\Users\georg\Desktop\CODING BOOTCAMP\INDIVIDUAL PROJECT\PART A\Individual Project\Individual Project\obj\Debug\Individual Project.pdb
